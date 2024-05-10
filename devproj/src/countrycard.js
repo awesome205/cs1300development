@@ -45,8 +45,8 @@ function CountryCard(props) {
         <p className="smalltext">
           Continent: {props.country.continent} <br></br> Landlocked:
           {props.country.landlocked
-            ? "Yep. No water in sight."
-            : "Nope. There's water nearby."}
+            ? " Yep. No water in sight."
+            : " Nope. There's water nearby."}
         </p>
         <p className="para">{props.country.description}</p>
       </div>

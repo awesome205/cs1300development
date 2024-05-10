@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CS1300 Development</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>CS 1300 Development Assignment</h1>
+        <p>Conducting competitive research and building out a basic product feature in React.</p>
+        <hr class="linebreak">
+    </header>
+    <main>
+        <section id="overview">
+            <h2>Project Overview</h2>
+            <p>The project was meant to introduce students to building in React and connecting their design, programming, and business skills together. The goal of the project was to build our an interface where users can select items
+                and aggregate them into a list-like feature.
+            </p>
+        </section>
+        <section id="objectives">
+            <h2>Part 1: Competitive Analysis</h2>
+            <p>We were tasked with selecting at least three different websites with a favoriting function. I analyzed and observed each of
+                these websites and evaluated how they all engage users and their main use cases. I also identified the strengths and weaknesses of each website. <br>
+                <br> For this analysis, I selected Etsy, Uber Eats, and GoodReads as my websites.
+            </p>
+            <img src="./favorite_research.png" alt="Research Image" class="website-screenshot">
+            <p>
+                Through my research, I surprised by the lack of standardization between the 'favorite' features. My concept of 'standard' was clearly out of touch with what the industry thought. It was surprising to see what aspects each platform prioritized and analyze them from a design and business perspective. Etsy and Uber Eats both had the “heart” icon at the top right of all of their product listings. This interface is perfect for learnability, memorability, and efficiency. Users already know exactly what the heart icon implies, and both platforms made it very easy to add. Etsy, however, had one step extra so the user can select which favorite list they want.
+                <br> <br>
+                It was clear that GoodReads spent the most time developing their “favorite” page. This page followed the first of Jacob Neilsen’s usability heuristics, visibility of system status. From their favorite page, a user can easily see whether they’ve reviewed the book, when they added the book to the list, and all the relevant information they need. On the other hand, if you’ve previously ordered a favorited Etsy product, the user has no idea. A weakness of the GoodReads design is the table display. The table display seems fairly out of date and is not aesthetically pleasing for the user.
+                <br> <br>
+                Uber Eats has put the least effort into their favorite list as a user can neither search nor filter their favorites. Presumably very few people use the feature and thus it is underdeveloped. Nevertheless, the favorite function is simply a list of all your favorites—and it’s very easy to add to when searching for restaurants. It’s also prominently displayed in their menu bar so it’s fairly easy for users to access the page.
+                <br> <br>
+                For my design, I would like to build a list where you can “favorite” or select the countries that you’ve traveled to. I would like the basic functionality where each country is listed as a card with a picture on top, the name below, and a short one sentence description. At the top right of each card is a ‘heart’ icon which the user can select to add the item to their favorite list. The user can see ‘their favorites’ in a modern table display with the country’s name, continent, whether its landlocked, and when they added the country to their list. A user can sort their list alphabetically by country name, or filter by continent.
+            </p>
+        </section>
+        <section id="objectives">
+            <h2>Part 2 & 3: Building the App</h2>
+            <h3>App Intention</h3>
+            <p>I decided to build a 'favoriting' application based on travel. As someone who's passionate about travel and wants to travel in the future, I thought that this would be a fun project! The app's original intention was to list all 193 UN member states so that someone could create a 'list of all travelled places.' However,
+                due to API challenges for gathering photos for each country, I decided to only use the first 15 countries alphabetically. A user can select a country and add it to their traveled list. The user can see their traveled list on the right side of the screen. 
+                To make it easier for the user to look through countries, there are also filters and sorting features. A user can filter by continent and whether the country is landlocked. A user can also sort the list alphabetically ascending or descending by country name.
+                A user can also use the 'reset' button to clear all the filters. Overall, this project was fun to make and satisfied all the requirements. 
+            </p>
+        </section>
+        <section id="process">
+            <h2>Links</h2>
+            <p><a href="https://cs1300development.vercel.app/">Here's</a> a link to the deployed website.</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 by Sohum Sanu. All rights reserved.</p>
+    </footer>
+</body>
+</html>
