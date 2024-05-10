@@ -1,0 +1,152 @@
+[
+  {
+    "id": 4,
+    "alpha2": "af",
+    "alpha3": "afg",
+    "name": "Afghanistan",
+    "description": "Landlocked country in South Asia. Known for its rugged terrain, rich history with various empires and significant archaeological sites.",
+    "continent": "Asia",
+    "landlocked": true,
+    "liked": false
+  },
+  {
+    "id": 8,
+    "alpha2": "al",
+    "alpha3": "alb",
+    "name": "Albania",
+    "description": "Southeastern European country with extensive Adriatic coastline. Renowned for its medieval architecture, archaeological sites, and picturesque beaches.",
+    "continent": "Europe",
+    "landlocked": false,
+    "liked": false
+  },
+  {
+    "id": 12,
+    "alpha2": "dz",
+    "alpha3": "dza",
+    "name": "Algeria",
+    "description": "North Africa's largest country, bordering the Mediterranean. Rich in oil and gas, featuring Sahara desert landscapes and ancient ruins.",
+    "continent": "Africa",
+    "landlocked": false,
+    "liked": false
+  },
+  {
+    "id": 20,
+    "alpha2": "ad",
+    "alpha3": "and",
+    "name": "Andorra",
+    "description": "Tiny, independent principality situated between France and Spain in the Pyrenees mountains. Known for ski resorts and a tax-haven status.",
+    "continent": "Europe",
+    "landlocked": true,
+    "liked": false
+  },
+  {
+    "id": 24,
+    "alpha2": "ao",
+    "alpha3": "ago",
+    "name": "Angola",
+    "description": "Located on the Southern Atlantic coast in Africa. Known for its oil reserves and diverse ecosystems, including savannas and rainforests.",
+    "continent": "Africa",
+    "landlocked": false,
+    "liked": false
+  },
+  {
+    "id": 28,
+    "alpha2": "ag",
+    "alpha3": "atg",
+    "name": "Antigua and Barbuda",
+    "description": "Caribbean island nation, known for reef-lined beaches, rainforests, and resorts. Historically significant with colonial history and sugarcane plantations.",
+    "continent": "North America",
+    "landlocked": false,
+    "liked": false
+  },
+  {
+    "id": 32,
+    "alpha2": "ar",
+    "alpha3": "arg",
+    "name": "Argentina",
+    "description": "South America's second largest country, known for its diverse landscapes from mountains to plains, vibrant culture and rich history.",
+    "continent": "South America",
+    "landlocked": false,
+    "liked": false
+  },
+  {
+    "id": 51,
+    "alpha2": "am",
+    "alpha3": "arm",
+    "name": "Armenia",
+    "description": "Landlocked country in the South Caucasus region. Known for its ancient culture, religious sites, and dramatic mountain landscapes.",
+    "continent": "Asia",
+    "landlocked": true,
+    "liked": false
+  },
+  {
+    "id": 36,
+    "alpha2": "au",
+    "alpha3": "aus",
+    "name": "Australia",
+    "description": "Largest country in Oceania, famous for its Sydney Opera House, Great Barrier Reef, vast desert wilderness, and unique wildlife.",
+    "continent": "Oceania",
+    "landlocked": false,
+    "liked": false
+  },
+  {
+    "id": 40,
+    "alpha2": "at",
+    "alpha3": "aut",
+    "name": "Austria",
+    "description": "Central European country known for its Alpine scenery, historical and cultural sites, classical music heritage and vibrant arts.",
+    "continent": "Europe",
+    "landlocked": true,
+    "liked": false
+  },
+  {
+    "id": 31,
+    "alpha2": "az",
+    "alpha3": "aze",
+    "name": "Azerbaijan",
+    "description": "Country in the South Caucasus region, rich in natural resources, known for its blend of Eastern European and Western Asian cultures.",
+    "continent": "Asia",
+    "landlocked": false,
+    "liked": false
+  },
+  {
+    "id": 44,
+    "alpha2": "bs",
+    "alpha3": "bhs",
+    "name": "Bahamas",
+    "description": "Archipelago in the Atlantic known for its hundreds of islands, clear waters, rich marine life, and vibrant tourist economy.",
+    "continent": "North America",
+    "landlocked": false,
+    "liked": false
+  },
+  {
+    "id": 48,
+    "alpha2": "bh",
+    "alpha3": "bhr",
+    "name": "Bahrain",
+    "description": "Small island country in the Persian Gulf, known for its financial sector, modern skyline, and archaeological heritage.",
+    "continent": "Asia",
+    "landlocked": false,
+    "liked": false
+  },
+  {
+    "id": 50,
+    "alpha2": "bd",
+    "alpha3": "bgd",
+    "name": "Bangladesh",
+    "description": "South Asian country marked by lush greenery and many waterways. Its Padma (Ganges), Meghna, and Jamuna rivers support its agrarian culture.",
+    "continent": "Asia",
+    "landlocked": false,
+    "liked": false
+  },
+  {
+    "id": 52,
+    "alpha2": "bb",
+    "alpha3": "brb",
+    "name": "Barbados",
+    "description": "Eastern Caribbean island known for its beaches, botanical gardens, the Harrison's Cave formation, and rich history as a sugar colony.",
+    "continent": "North America",
+    "landlocked": false,
+    "liked": false
+  }
+]
